@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao perfil de Lays 😁
+💻 Técnica em Desenvolvimento de Sistemas  
+🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
 
+Tenho interesse nas áreas de desenvolvimento e suporte técnico. Atualmente estou aprofundando meus estudos em JavaScript e desenvolvendo projetos práticos com HTML, CSS e JavaScript para fortalecer minhas habilidades na área de tecnologia.
  <div>
    <a href="https://github.com/lays-araujooo15">
 </div>
