@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:243b55,100:00c6ff&height=200&section=header&text=Lays%20Araújo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:6a0dad,100:8a2be2&height=200&section=header&text=Lays%20Araújo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ## Bem-vindo(a) ao perfil de Lays 😁
 💻 Técnica em Desenvolvimento de Sistemas  
