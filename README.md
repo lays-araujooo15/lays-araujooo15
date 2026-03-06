@@ -1,4 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lays%20Araújo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+## 📊 Estatísticas do GitHub
+
+![Lays GitHub stats](https://github-readme-stats.vercel.app/api?username=laysaraujo-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laysaraujo-dev&layout=compact&theme=tokyonight)
 ## Bem-vindo(a) ao perfil de Lays 😁
 💻 Técnica em Desenvolvimento de Sistemas  
 🎓 Cursando Análise e Desenvolvimento de Sistemas
